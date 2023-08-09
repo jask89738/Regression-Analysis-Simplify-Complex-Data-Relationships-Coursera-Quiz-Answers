@@ -1,0 +1,66 @@
+WEEK 5 ANSWERS
+regression analysis: simplify complex data relationships coursera weekly challenges 5 answers
+Test your knowledge: Foundations of logistic regression
+1. When building a logistic regression model, what does CLF stand for?
+Answers
+2. Which package do you use to create a plot of your model to visualize its results?
+Answers
+Test your knowledge: Logistics regression with Python
+3. No extreme outliers is one of the four main binomial logistic regression assumptions. What are the other three? Select all that apply.
+Answers
+4. Logit is the logarithm of the odds of a given probability.
+Answers
+5. Fill in the blank: The maximum likelihood estimation is a technique used for estimating the beta parameters that _____ the likelihood of a model producing the observed data.
+Answers
+Test your knowledge: Interpret logistic regression results
+6. The confusion matrix is a graphical representation of how accurate a classifier is at predicting what for a categorical variable?
+Answers
+7. Fill in the blank: _____ measures the proportion of positive predictions that were true positives.
+Answers
+8. Which of the following provide additional information about the likelihood of a result being merely by chance? Select all that apply.
+Answers
+Test your knowledge: Compare regression models
+9. Which model might a data professional consider first if the outcome variable is binary?
+Answers
+10. A data professional can use recall to evaluate a logistic regression model. What other metrics can be used to meet this goal? Select all that apply.
+Answers
+Weekly challenge 5
+11. Fill in the blank: Binomial logistic regression is a technique that models the probability of an observation falling into one of two categories, based on one or more _____ variables.
+Answers
+12. A data professional calculates a logarithm of the odds of a given probability. What are they calculating?
+Answers
+13. What technique estimates the beta parameters that increase the likelihood of the model producing observed data?
+Answers
+14. Which regression assumption states that, if multiple X variables are in a model, they should not be highly correlated with one another?
+Answers
+15. What graphical representation demonstrates a classifier’s accuracy at predicting the labels for a categorical variable?
+Answers
+16. A data professional calculates precision in logistic regression results. They have 89 true positives, 83 true negatives, 3 false positives, and 1 false negative. What is the calculation for precision?
+Answers
+17. A data professional calculates accuracy in logistic regression results. They have 99 true positives, 91 true negatives, and 248 total predictions. What is the calculation for accuracy?
+Answers
+18. A data professional calculates recall in logistic regression results. They have 99 true positives, 80 true negatives, 7 false positives, and 4 false negatives. What is the calculation for recall?
+Answers
+Shuffle Q/A
+19. Logit includes which other probability formula?
+Answers
+20. Fill in the blank: A confusion matrix is a graphical representation of how accurate a classifier is at _____ the labels for a categorical variable.
+Answers
+21. A data professional calculates recall in logistic regression results. They have 91 true positives, 84 true negatives, 6 false positives, and 5 false negatives. What is the calculation for recall?
+Answers
+22. What technique models the probability of an observation falling into one of two categories, based on one or more independent variables?
+Answers
+23. What is the logit formula?
+Answers
+24. Fill in the blank: Maximum likelihood estimation is a technique for estimating the _____ that maximize the likelihood of the model producing the observed data.
+Answers
+25. A data professional calculates precision in logistic regression results. They have 101 true positives, 63 true negatives, 4 false positives, and 2 false negatives. What is the calculation for precision?
+Answers
+26. A data professional calculates accuracy in logistic regression results. They have 87 true positives, 94 true negatives, and 222 total predictions. What is the calculation for accuracy?
+Answers
+27. Following the no extreme outliers assumption, when are outliers detected?
+Answers
+28. A data professional calculates accuracy in logistic regression results. They have 82 true positives, 75 true negatives, and 202 total predictions. What is the calculation for accuracy?
+Answers
+29. A data professional calculates accuracy in logistic regression results. They have 82 true positives, 75 true negatives, and 202 total predictions. What is the calculation for accuracy?
+Answers
