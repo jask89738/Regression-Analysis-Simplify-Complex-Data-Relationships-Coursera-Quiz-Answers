@@ -1,0 +1,55 @@
+WEEK 4 ANSWERS
+regression analysis: simplify complex data relationships coursera weekly challenges 4 answers
+Test your knowledge: The chi-squared test
+1. The chi-squared goodness of fit test determines whether an observed categorical variable follows an expected distribution.
+Answers
+2. Which test determines whether two categorical variables are associated with each other?
+Answers
+3. Fill in the blank: The chi-squared statistic equals the sum of the observed number minus the expected number, squared, divided by the _____ number.
+Answers
+Test your knowledge: Analysis of variance
+4. Which of the following statements accurately describe t-tests and analyses of variance? Select all that apply.
+Answers
+5. Which of the following are analysis of variance (ANOVA) tests? Select all that apply.
+Answers
+6. Fill in the blank: A post hoc test performs a pairwise comparison between all available groups while controlling for the _____.
+Answers
+Test your knowledge: ANCOVA, MANOVA, and MANCOVA
+7. Which statistical technique better isolates the relationship between a single categorical variable of interest and the Y variable?
+Answers
+8. Which of the following statements accurately describe ANCOVA and linear regression? Select all that apply.
+Answers
+9. What is the key difference between MANCOVA and MANOVA?
+Answers
+Weekly challenge 4
+10. Fill in the blank: The _____ determines whether an observed categorical variable follows an expected distribution.
+Answers
+11. What examines the relationship between categorical variables and continuous variables?
+Answers
+12. Fill in the blank: Two-way analysis of variance testing compares the means of one continuous dependent variable based on three or more groups of _____ categorical variables.
+Answers
+13. What test performs a pairwise comparison between all available groups while controlling for the error rate?
+Answers
+14. A data professional attempts to study the relationship between categorical and continuous variables to control for the effect of variables that are unrelated to the question to be answered. What type of statistical technique should they use?
+Answers
+15. Fill in the blank: The acronym MANOVA means _____ analysis of variance.
+Answers
+16. What statistical technique should a data professional use to study the relationship between one categorical variable and two or more continuous dependent variables, while controlling for covariates?
+Answers
+Shuffle Q/A
+17. Fill in the blank: When using _____, the independent variables must be categorical and the outcome variables must be continuous.
+Answers
+18. What types of variables does MANCOVA compare while controlling for covariates? Select all that apply.
+Answers
+19. Fill in the blank: Analysis of variance examines the relationship between _____.
+Answers
+20. By taking into account the covariate, data professionals can better isolate the relationship between the categorical variable of interest and which variable?
+Answers
+21. A data professional compares how two or more continuous variables vary according to categorical independent variables. What statistical technique are they using?
+Answers
+22. When using MANOVA, what type of variables does a data professional add?
+Answers
+23. Fill in the blank: The post hoc test performs a pairwise comparison between _____ while controlling for the error rate.
+Answers
+24. What types of variables does MANCOVA compare while controlling for covariates? Select all that apply.
+Answers
