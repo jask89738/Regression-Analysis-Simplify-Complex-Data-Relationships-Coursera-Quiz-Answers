@@ -1,0 +1,67 @@
+WEEK 2 ANSWERS
+egression analysis: simplify complex data relationships coursera weekly challenges 2 answers
+Test your knowledge: Foundations of linear regression
+1. Fill in the blank: The best fit line is the line that fits the data best by minimizing some _____.
+Answers
+2. What is the sum of the squared differences between each observed value and the associated predicted value?
+Answers
+3. What tool would be most effective for calculating the ordinary least squares?
+Answers
+Test your knowledge: Assumptions and construction in Python
+4. How does a data professional determine if a linearity assumption is met?
+Answers
+5. Which of the following statements accurately describes the normality assumption?
+Answers
+6. A data professional is using a scatterplot to plot residuals and predicted values from a regression model to check for homoscedasticity. What does this scenario represent?
+Answers
+7. What type of visualization uses a series of scatterplots that show the relationships between pairs of variables?
+Answers
+Test your knowledge: Evaluate a linear regression model
+8. What is the area surrounding a regression line, which describes the uncertainty around the predicted outcome at every value of X?
+Answers
+9. Fill in the blank: R squared measures the _____ in the dependent variable, Y. This is explained by the independent variable, X.
+Answers
+10. Which linear regression evaluation metric is sensitive to large errors?
+Answers
+Test your knowledge: Interpret linear regression results
+11. Which of the following are best practices when communicating linear regression results? Select all that apply.
+Answers
+12. Which of the following statements accurately describe coefficients and p-values for regression model interpretation? Select all that apply.
+Answers
+Weekly challenge 2
+13. Fill in the blank: _____ is the difference between observed values and the predicted values of a regression line.
+Answers
+14. In linear regression, what mathematical technique is used to calculate beta zero hat and beta one hat?
+Answers
+15. A data professional testing for linear regression assumptions notices that their visualization of the data appears like a random cloud. Which model assumption does this invalidate?
+Answers
+16. FIll in the blank: A scatterplot _____ is a series of scatterplots that show the relationships between pairs of variables.
+Answers
+17. A data professional checking model assumptions notices the dependent variables appear in a cone-shaped pattern when plotting the residuals against the dependant variable. Which model assumption does this invalidate?
+Answers
+18. Fill in the blank: A confidence band is the area surrounding a line that describes the _____ around the predicted outcome at every value of X.
+Answers
+19. What is another term for R squared?
+Answers
+20. Which of the following statements accurately describe running a randomized, controlled experiment? Select all that apply.
+Answers
+Shuffle Q/A
+21. A data professional determines the best fit line by calculating the difference between observed values and the predicted value of a regression line. What is this calculation?
+Answers
+22. A data professional minimizes the sum of squared residuals to estimate parameters in a linear regression model. What method are they using?
+Answers
+23. FIll in the blank: A scatterplot matrix is a series of scatterplots that show the _____ between pairs of variables.
+Answers
+24. Fill in the blank: A _____ is the area surrounding a line that describes the uncertainty around the predicted outcome at every value of X.
+Answers
+25. What measures the proportion of variation in the dependent variable Y explained by the independent variable X?
+Answers
+26. Which of the following statements accurately describe a randomized, controlled experiment? Select all that apply.
+Answers
+27. What is the difference between observed or actual values and the predicted values of a regression line?
+Answers
+28. FIll in the blank: A scatterplot matrix is a series of scatterplots that show the relationships between pairs of _____.
+Answers
+29. Fill in the blank: A confidence band is the area surrounding a line that describes the uncertainty around the predicted outcome at every value of _____.
+Answers
+30. Which of the following statements accurately describe running a randomized, controlled experiment? Select all that apply.
