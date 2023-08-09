@@ -1,0 +1,62 @@
+WEEK 6 ANSWERS
+Assess your Course 5 end-of-course project
+This is the rubric for the Course 5 end-of-course project. You will use this rubric to review and grade your own work. The rubric grading process is an important part of the learning experience because it allows you to objectively assess your end-of-course project against a set of criteria.
+
+There are a total of 20 points for the end-of-course project and 20 items in this rubric. Each rubric item is worth 1 point. The items are grouped by topic and correspond to each step you completed for the Course 5 end-of-course project. 
+
+To use the rubric, first open your end-of-course project notebook, executive summary, and PACE strategy document. Next, review each rubric item’s grading criteria. Then respond to each statement by marking “yes” or “no.” 
+
+When you complete and submit the rubric, you will receive a percentage score. This score will help you confirm whether you completed the required steps of the end-of-course project; the recommended passing grade for this project is 80% (or 16/20 points). If you want to increase your score, you can revise your project and then resubmit this rubric to reflect any changes you make. Try to achieve at least 16 points on this rubric before continuing on to the next course.
+
+Imports
+The following rubric items assess the imports for your end-of-course project.
+
+1. Applicable packages and libraries were imported to the code notebook.
+Answers
+2. The dataset was imported and read into the notebook using the pd.read_csv() function.
+Answers
+Data Analysis
+The following rubric items assess the data analysis work you completed for your end-of-course project.
+
+3. The purposes of EDA were identified prior to constructing a multiple linear regression model.
+Answers
+4. All applicable functions were applied during the exploratory data analysis – e.g., info(), head(), describe(), isna(), drop_duplicates().
+Answers
+Visualizations and Modeling
+The following rubric items assess the visualizations and models you created for your end-of-course project.
+
+5. Visualizations were generated to identify outliers for important variables (e.g., passenger_count, tip_amount, total_amount, trip_duration).
+Answers
+6. Visualizations were generated to inspect for correlations between variables.
+Answers
+7. X and Y variables were set.
+Answers
+8. Converted tpep_dropoff_datetime and tpep_pickup_datetime to datetime format using pd.datetime().
+Answers
+9. Dummies for all locations were created.
+Answers
+10. A correlation heatmap was generated with the applicable variables.
+Answers
+11. A pair plot was generated with the applicable variables.
+Answers
+12. A scatter plot was generated to show the relationship between relevant variables.
+Answers
+13. X and Y variables were transformed with the StandardScaler() function.
+Answers
+14. Data visualizations were generated to show model results.
+Answers
+15. Assumptions for multiple linear regression were checked.
+Answers
+16. Assumptions for multiple linear regression were checked.
+Answers
+Results and/or Evaluation
+The following rubric items assess the concluding steps of your end-of-course project, including evaluation and summary of findings.
+
+17. All questions in the code notebook were answered.
+Answers
+18. All questions in the PACE strategy document were answered.
+Answers
+19. The executive summary included a summary of the regression assumptions.
+Answers
+20. The executive summary identified the outcome of the work completed for this data project.
+Answers
